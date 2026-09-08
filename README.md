@@ -9,7 +9,7 @@
 
 ### please understand that copying this will be useless this is an OPEN-SOURCE game forking for profit will not benifit you
 
-## Copyright © 2026 Dreadshot | Rip_IceY_T . All Rights Reserved.
+## Copyright © 2026 SplatShot-Github | Rip_IceY_T . All Rights Reserved.
 
 
 
