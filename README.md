@@ -3,7 +3,7 @@
 
 ### This software and its source code are proprietary. Unauthorized copying, modification, distribution, or execution of this software via any medium is strictly prohibited.
 
-## PERMITTED FOR NON-COMERTIAL USE ONLY PERSONAL USE 
+## NOT PERMITTED FOR NON-COMERTIAL USE ONLY FOR PERSONAL USE 
 
 ### This game is a multiplayer FPS That me a vibe coder is making to see how much can i push the limits  to
 
